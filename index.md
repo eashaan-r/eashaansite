@@ -4,8 +4,8 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## About me 
+Hi, my name is Eashaan and this is my Advanced Placement Computer Science Principles blog. I'm a Junior / in 11th grade. I'm 16 years old and my favorite color is pink. I look forward to creating some cool code and inventions in this class. 
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
