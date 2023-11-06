@@ -1,12 +1,10 @@
 ---
 toc: true
-comments: true
+comments: false
 layout: post
-title: APCSP Tri 1 reflection
-description: reflecting on the first trimester of apcsp
-courses: {compsci: {week: 7}}
-type: tangibles
-permalink: /basics/home
+title: Tri 1 reflection
+type: hacks
+courses: {compsci: {week: 8} }
 ---
 
 # Trimest 1 APCSP reflection
